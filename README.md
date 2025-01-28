@@ -20,17 +20,6 @@ At the same time, I’m always looking for ways to make development processes si
 - Improving my skills in integration and business process management using Redmine and other tools.  
 - Enhancing my expertise in microservices and their interaction with monoliths.  
 
-🛠️ **My core competencies:**  
-
-| Area                       | Skills and Experience                              |  
-|----------------------------|---------------------------------------------------|  
-| Programming Languages      | Java (primary)                                    |  
-| Application Architecture   | Modular monolith, REST API, microservices         |  
-| Frameworks and Libraries   | Spring, Hibernate, WebClient, FeignClient         |  
-| Development Tools          | Git, Maven, Docker, IntelliJ IDEA                 |  
-| Project Management         | Redmine integrations, business process optimization |  
-| Additional Skills          | Performance optimization, SDK integration         |  
-
 I’m always open to new contacts, collaborations, or just interesting technical discussions!  
 If you want to learn more about my projects, feel free to check out my repositories.  
 
