@@ -5,6 +5,8 @@ Hello! 👋
 My name is Grigory, and I’m a developer with a strong passion for building scalable, modular, and high-performing solutions.  
 I’m not afraid of challenging tasks — on the contrary, I see them as a source of inspiration and opportunities for growth.  
 
+<details>
+  <summary>More details</summary>
 My specialization lies in Java development, where I leverage modern approaches, including modular architectures, REST APIs, and external service integrations.  
 At the same time, I’m always looking for ways to make development processes simpler and more efficient by automating routine tasks.  
 
@@ -59,6 +61,9 @@ If you want to learn more about my projects, feel free to check out my repositor
 |                            | SOLID                                             | 85%                   |  
 | **Additional Skills**      | Performance optimization                          | 75%                   |  
 |                            | SDK integration                                   | 70%                   |  
+</details>
+
+
 
 Thank you for visiting! 🌟  
 
