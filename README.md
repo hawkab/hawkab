@@ -7,7 +7,7 @@ I’m not afraid of challenging tasks — on the contrary, I see them as a sourc
 
 <details>
   <summary>More details</summary>
-My specialization lies in Java development, where I leverage modern approaches, including modular architectures, REST APIs, and external service integrations.  
+My specialization in Java development, where I leverage modern approaches, including modular architectures, REST APIs, and external service integrations.  
 At the same time, I’m always looking for ways to make development processes simpler and more efficient by automating routine tasks.  
 
 🎯 **My strengths:**  
