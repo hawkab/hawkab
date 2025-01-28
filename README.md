@@ -3,7 +3,6 @@ EN | [RU](README_ru.md)
 
 Hello! 👋  
 My name is Grigory, and I’m a developer with a strong passion for building scalable, modular, and high-performing solutions.  
-I’m not afraid of challenging tasks — on the contrary, I see them as a source of inspiration and opportunities for growth.  
 
 <details>
   <summary>More details</summary>
@@ -17,7 +16,7 @@ At the same time, I’m always looking for ways to make development processes si
 - A broad perspective on problem-solving: I understand that quality code is important, but so is effective project and team management.  
 
 🚀 **What I’m currently working on:**  
-- Improving my skills in integration and business process management using Redmine and other tools.  
+- Improving my skills in integration and business process management using DSL, Camunda and other tools.  
 - Enhancing my expertise in microservices and their interaction with monoliths.  
 
 I’m always open to new contacts, collaborations, or just interesting technical discussions!  
